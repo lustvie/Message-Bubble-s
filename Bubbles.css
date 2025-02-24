@@ -1,3 +1,4 @@
+:root {
 /* Message Bubbles */
    /* New Messages bubble */
    #app-mount [class^="messageListItem__"] [data-is-self="true"],
@@ -294,4 +295,5 @@
   .buttonsInner__5126c {
     rotate: 180deg;
   }
+}
 }
